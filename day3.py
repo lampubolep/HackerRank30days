@@ -1,3 +1,4 @@
+# receiving input integer
 n = int(input())
 
 # if n is odd, print Weird
